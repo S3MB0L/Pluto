@@ -1,0 +1,13 @@
+frtos_uart_easyd_i2c configuration\freertos.o: ../Src/freertos.c
+frtos_uart_easyd_i2c configuration\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+frtos_uart_easyd_i2c configuration\freertos.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+frtos_uart_easyd_i2c configuration\freertos.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+frtos_uart_easyd_i2c configuration\freertos.o: ../Inc/FreeRTOSConfig.h
+frtos_uart_easyd_i2c configuration\freertos.o: ../Inc/mxconstants.h
+frtos_uart_easyd_i2c configuration\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+frtos_uart_easyd_i2c configuration\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+frtos_uart_easyd_i2c configuration\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+frtos_uart_easyd_i2c configuration\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM0/portmacro.h
+frtos_uart_easyd_i2c configuration\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+frtos_uart_easyd_i2c configuration\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+frtos_uart_easyd_i2c configuration\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
